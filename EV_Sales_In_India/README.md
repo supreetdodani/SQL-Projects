@@ -26,7 +26,6 @@ The project consists of a single table:
 - **CO₂ emissions savings from EV adoption**  
 
 ## Author  
-Supreet Dodani 
-
+Supreet Dodani
 [LinkedIn](https://www.linkedin.com/in/supreet-dodani-3a3371246/)
 
