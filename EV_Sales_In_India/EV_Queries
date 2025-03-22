@@ -194,4 +194,4 @@ WHERE
     vehicle_category = '3-Wheelers'
 GROUP BY state , vehicle_class
 HAVING SUM(EV_sales_quantity) > 1
-ORDER BY total_sales DESC;
+ORDER BY co2_savings DESC;
