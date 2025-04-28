@@ -1,4 +1,4 @@
-# Synthetic Stock Data Analysis - SQL Case Study
+# Synthetic Stock Data Analysis
 
 ## Overview  
 This project presents a comprehensive SQL analysis of **stock market data across multiple companies and sectors** from synthetic daily trading data. It explores **price trends, volatility, sentiment, dividends, and sector comparisons** using advanced SQL techniques.
