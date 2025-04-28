@@ -311,7 +311,7 @@ GROUP BY
 	company, a.date, b.date, a.Sentiment_Score, a.dividend_yield, b.Dividend_Yield, b.sentiment_score)
     
 SELECT company, year, current_month, current_sentiment, current_dividend, p_year, previous_month, previous_sentiment, previous_dividend, 
-ROUND(((current_dividend - previous_dividend)/previous_dividend)*100, 2) as percent_increase
+ROUND((current_dividend - previous_dividend), 2) as percent_increase
 FROM dividends;
     
 /** INSIGHTS
