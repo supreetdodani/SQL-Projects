@@ -1,4 +1,4 @@
-# Electric Vehicle Sales Analysis - SQL Case Study
+# Analysis of Electric Vehicle Sales in India
 
 ## Overview  
 This project is a SQL-based analysis of **electric vehicle (EV) sales in India from 2014 to 2024**. It examines **sales trends, government policy impacts, vehicle category preferences, and environmental effects** using SQL queries.
