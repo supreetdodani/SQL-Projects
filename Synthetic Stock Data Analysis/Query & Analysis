@@ -315,9 +315,9 @@ ROUND((current_dividend - previous_dividend), 2) as percent_increase
 FROM dividends;
     
 /** INSIGHTS
-1. Citigroup's sentiment jumped to 0.72 in September 2022 from -0.45 in June 2022, reflected in the 400% increase in it's dividend. 
-2. Highest Dividend increase was for Intel with a 1600% increase in it's dividend and a similar trend is observed in it's sentiment growth. 
-3. While Ford's sentiment has remained stagnant, it's dividend increased by 131%
+1. Citigroup's sentiment jumped to 0.72 in September 2022 from -0.45 in June 2022, reflected in the 3.6% increase in it's dividend.  
+2. While Ford's sentiment has remained stagnant, it's dividend increased by 2%
+3. Overall, we can observe that there is a disproportionate relationship between sentiment score & dividend. 
 **/
 
 -- EPS [higher the better]
