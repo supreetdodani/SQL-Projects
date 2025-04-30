@@ -1,4 +1,4 @@
-<pre> ```sql 
+
 -- total sales from 2014 to 2024 
 SELECT 
     state, SUM(EV_Sales_Quantity) AS total_sales
@@ -196,4 +196,3 @@ WHERE
 GROUP BY state , vehicle_class
 HAVING SUM(EV_sales_quantity) > 1
 ORDER BY co2_savings DESC;
-``` </pre>
