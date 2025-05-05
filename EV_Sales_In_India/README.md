@@ -23,7 +23,15 @@ The project consists of a single table:
 - **Impact of the FAME-II policy (2019) on EV sales**  
 - **Year-over-Year (YoY) and Month-over-Month (MoM) sales growth**  
 - **Sales analysis by vehicle category**  
-- **CO₂ emissions savings from EV adoption**  
+- **CO₂ emissions savings from EV adoption**
+
+## SQL Skills Demonstrated
+
+- **Window Functions:** For YoY/MoM trends and moving averages  
+- **CTEs:** To structure multi-step queries  
+- **Aggregations & Grouping:** To analyze sales across time, location, and category  
+- **Conditional Logic:** For pre/post-policy impact and CO₂ savings  
+- **Joins & Subqueries:** For comparative insights and metric calculations
 
 ## Author  
 Supreet Dodani
