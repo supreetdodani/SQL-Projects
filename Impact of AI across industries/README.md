@@ -29,8 +29,6 @@ This project investigates how the rise of artificial intelligence (AI) has affec
 Beyond querying, this project integrates my own commentary and interpretation for each insight. Observations such as the fluctuating performance of AI tools over time, varying impacts across industries, and the trade-offs between automation and revenue were derived by linking metrics and framing narratives from the raw output. This blend of technical querying and business storytelling enhances the depth and clarity of the insights.
 
 ## Contact
-Supreet Dodani
-
-[LinkedIn](https://www.linkedin.com/in/supreet-dodani-3a3371246/)
+LinkedIn: [Supreet Dodani](https://www.linkedin.com/in/supreet-dodani-3a3371246/)
 
 Email: sdodaniwork@gmail.com
