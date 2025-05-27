@@ -49,9 +49,14 @@ This end-to-end project involves the design and analysis of a relational databas
 It emphasizes schema design, data relationships, and operations reporting.
 
 ---
+### [Impact of AI on Employment](https://github.com/supreetdodani/SQL-Projects/tree/main/Impact%20of%20AI%20across%20industries)
 
-## Highlights
+This project analyzes how AI adoption has influenced employment, revenue, and sentiment across industries and countries. It explores correlations between AI tools, regulatory landscapes, and workforce dynamics through detailed SQL queries.
 
-- Proficient in data cleaning, transformation, and analysis using SQL
-- Use of advanced SQL techniques such as CTEs, subqueries, joins, and window functions
-- Well-documented projects with clear objectives and insights
+Key analyses include:
+- Industry-wise job loss vs revenue growth due to AI
+- AI tool rankings by market share and trust
+- Trends in regulation and market sentiment over time
+- Year-over-year comparison of AI impact by region and sector
+
+This project combines technical querying with analytical storytelling.
