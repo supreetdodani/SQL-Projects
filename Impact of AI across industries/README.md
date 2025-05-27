@@ -31,4 +31,5 @@ Beyond querying, this project integrates my own commentary and interpretation fo
 ## Contact
 Supreet Dodani
 [LinkedIn](https://www.linkedin.com/in/supreet-dodani-3a3371246/)
+
 Email: sdodaniwork@gmail.com
